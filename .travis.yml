@@ -1,6 +1,6 @@
 language: objective-c
 rvm:
-  - 2.1.2
+  - 2.1.1
 before_install:
     - (ruby --version)
     - sudo chown -R travis ~/Library/RubyMotion
